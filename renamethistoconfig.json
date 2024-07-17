@@ -1,0 +1,17 @@
+{
+    "channel_id": "1094291863332192376",
+    "bot_token": "",
+    "cookies": {
+        "search_cookie": "",
+        "buy_cookie": ""
+    },
+    "global_max_price": 0,
+    "autosearch": true,
+    "searcherv2_threads": 5,
+    "antiratelimit": {
+        "v1_wait_time": 0.1
+    },
+    "webhook": "",
+    "key": "",
+    "sniper": false
+}
